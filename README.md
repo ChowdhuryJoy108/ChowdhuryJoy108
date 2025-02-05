@@ -75,6 +75,6 @@
 
 
 <h3>🔭 Looking Forward </h3>
-<p align="center" >I'm continuously looking to improve and evolve as a developer. If you're interested in collaborating or have a project in mind, feel free to reach out!</p>
+<p>I'm continuously looking to improve and evolve as a developer. If you're interested in collaborating or have a project in mind, feel free to reach out!</p>
 
 
