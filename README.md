@@ -1,5 +1,5 @@
-## Hi there 👋
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://en.m.wikipedia.org/wiki/File:Flag_of_Bangladesh.svg" width="13"/> <b>Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Chittagong, Bangladesh</b>. </p>
+<h2> Hi there 👋 </h2>
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <b>Bangladesh</b>, currently living in <b>Chittagong, Bangladesh</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
