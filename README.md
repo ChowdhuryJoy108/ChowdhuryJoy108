@@ -1,6 +1,7 @@
- 
+<h2> Hi there 👋 </h2>
+
 <p align="center">
-  <img src="https://i.ibb.co.com/tpWXjB0B/github-header-image-5.png" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
+  <img src="https://i.ibb.co.com/Y7T3xqBM/github-header-image-6.png" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-chowdhury-5072661b0/)](https://www.linkedin.com/in/joy-chowdhury-5072661b0/)
@@ -10,8 +11,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imjc721@gmail.com)](mailto:mail@imjc721@gmail.com)
 
 
-<h2> Hi there 👋 </h2>
 <p>Welcome to my page! </br> I'm Joy, Fullstack developer from <b>Bangladesh</b>, currently living in <b>Chittagong, Bangladesh</b>. </p>
+
 
 <h3> ⚡ Things I code with</h3>
 <p>
