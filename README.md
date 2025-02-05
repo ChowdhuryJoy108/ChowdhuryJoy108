@@ -1,7 +1,12 @@
+ 
+<p align="center">
+  <img src="https://i.ibb.co.com/yn1yw0tB/github-header-image.png" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
+</p>
+
+
 <h2> Hi there 👋 </h2>
 <p>Welcome to my page! </br> I'm Joy, Fullstack developer from <b>Bangladesh</b>, currently living in <b>Chittagong, Bangladesh</b>. </p>
- <img src="https://i.ibb.co.com/yn1yw0tB/github-header-image.png" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm Joy" />
-https://i.ibb.co.com/yn1yw0tB/github-header-image.png
+
 <h3> ⚡ Things I code with</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -22,16 +27,14 @@ https://i.ibb.co.com/yn1yw0tB/github-header-image.png
   
 </p>
 
-✨ I'm a tech enthusiast who loves to learn about new things. 📫 Connect with me on LinkedIn. 
+<h3> ⚡ Tools that I use </h3>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-chowdhury-5072661b0/)](https://www.linkedin.com/in/joy-chowdhury-5072661b0/)
-
-  <a href="https://www.facebook.com/share/1BkA741HaF">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imjc721@gmail.com)](mailto:mail@imjc721@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
 
 
 <h3>📊 My Stats</h3>
@@ -52,29 +55,17 @@ https://i.ibb.co.com/yn1yw0tB/github-header-image.png
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<h3> ⚡ Tools that I use </h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
 
 
+✨ I'm a tech enthusiast who loves to learn about new things. 📫 Connect with me on LinkedIn. 
 
 
-<!--
-**ChowdhuryJoy108/ChowdhuryJoy108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-chowdhury-5072661b0/)](https://www.linkedin.com/in/joy-chowdhury-5072661b0/)
 
-Here are some ideas to get you started:
+  <a href="https://www.facebook.com/share/1BkA741HaF">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imjc721@gmail.com)](mailto:mail@imjc721@gmail.com)
+
+
