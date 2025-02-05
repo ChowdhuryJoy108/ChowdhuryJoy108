@@ -61,7 +61,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0NXJzOXpwNjhsbDhodnJjOWpteDUzdXZ3bzZlenRuZzIwM2dhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif
+" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
+</p>
 
 ✨ I'm a tech enthusiast who loves to learn about new things. 📫 Connect with me on LinkedIn. 
 
