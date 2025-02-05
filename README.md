@@ -74,3 +74,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imjc721@gmail.com)](mailto:mail@imjc721@gmail.com)
 
 
+<h3>🔭 Looking Forward </h3>
+<p align="center" >I'm continuously looking to improve and evolve as a developer. If you're interested in collaborating or have a project in mind, feel free to reach out!</p>
+
+
