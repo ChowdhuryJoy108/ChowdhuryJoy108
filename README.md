@@ -1,7 +1,7 @@
-<h2 align="center"> Hi there 👋 </h2>
+<h2> Hi there 👋 </h2>
 <p>Welcome to my page! </br> I'm Joy, Fullstack developer from <b>Bangladesh</b>, currently living in <b>Chittagong, Bangladesh</b>. </p>
 
-<h3 align="center"> ⚡ Things I code with</h3>
+<h3> ⚡ Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
@@ -24,12 +24,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imjc721@gmail.com)](mailto:mail@imjc721@gmail.com)
 
 
-<h3 align="center">Stats</h3>
-<div align="center">
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ChowdhuryJoy108&count_private=true&show_icons=true&include_all_commits=true)
-</div>
+<h3>Stats</h3>
 
-<h3 align="center"> 🌱  I’m currently learning ... </h3>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ChowdhuryJoy108&count_private=true&show_icons=true&include_all_commits=true)
+
+
+<h3> 🌱  I’m currently learning ... </h3>
 <!--
 **ChowdhuryJoy108/ChowdhuryJoy108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
