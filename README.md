@@ -1,7 +1,13 @@
  
 <p align="center">
-  <img src="https://i.ibb.co.com/yn1yw0tB/github-header-image.png" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
+  <img src="https://i.ibb.co.com/XxSbSX1C/github-header-image-4.png" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-chowdhury-5072661b0/)](https://www.linkedin.com/in/joy-chowdhury-5072661b0/)
+  <a href="https://www.facebook.com/share/1BkA741HaF">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imjc721@gmail.com)](mailto:mail@imjc721@gmail.com)
 
 
 <h2> Hi there 👋 </h2>
@@ -61,11 +67,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-chowdhury-5072661b0/)](https://www.linkedin.com/in/joy-chowdhury-5072661b0/)
-
   <a href="https://www.facebook.com/share/1BkA741HaF">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imjc721@gmail.com)](mailto:mail@imjc721@gmail.com)
 
 
