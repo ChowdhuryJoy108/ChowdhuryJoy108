@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img src="https://i.ibb.co.com/XxSbSX1C/github-header-image-4.png" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
+  <img src="https://i.ibb.co.com/tpWXjB0B/github-header-image-5.png" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-chowdhury-5072661b0/)](https://www.linkedin.com/in/joy-chowdhury-5072661b0/)
@@ -61,12 +61,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0NXJzOXpwNjhsbDhodnJjOWpteDUzdXZ3bzZlenRuZzIwM2dhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif
-" alt="👋 Hi there! I'm Joy" title="👋 Hi there! I'm Joy" width="100%" />
-</p>
 
-✨ I'm a tech enthusiast who loves to learn about new things. 📫 Connect with me on LinkedIn. 
+<h3> ✨ I'm a tech enthusiast who loves to learn about new things. 📫 Connect with me on LinkedIn. </h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joy-chowdhury-5072661b0/)](https://www.linkedin.com/in/joy-chowdhury-5072661b0/)
