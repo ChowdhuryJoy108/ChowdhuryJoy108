@@ -1,6 +1,6 @@
 <h2> Hi there 👋 </h2>
 <p>Welcome to my page! </br> I'm Joy, Fullstack developer from <b>Bangladesh</b>, currently living in <b>Chittagong, Bangladesh</b>. </p>
- [<img src="https://i.ibb.co.com/yn1yw0tB/github-header-image.png" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm Joy" />](https://i.ibb.co.com/yn1yw0tB/github-header-image.png)
+ <img src="https://i.ibb.co.com/yn1yw0tB/github-header-image.png" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm Joy" />
 https://i.ibb.co.com/yn1yw0tB/github-header-image.png
 <h3> ⚡ Things I code with</h3>
 <p>
