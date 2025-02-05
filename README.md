@@ -3,7 +3,9 @@
 
 <h3> ⚡ Things I code with</h3>
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -30,6 +32,7 @@
 <h3>📊 My Stats</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChowdhuryJoy108&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChowdhuryJoy108&hide=TeX&layout=compact)
 
 
 <h3> 🌱  I’m currently trying to learn ... </h3>
